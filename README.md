@@ -40,16 +40,15 @@ Focused on clean architecture, performance, and production-ready solutions.
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulykbek1717&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
 - Email: dovutbekovulukbek@gmail.com
-- LinkedIn: (add your link)
+- LinkedIn: www.linkedin.com/in/ulykbekdovutbekov
+- Telegram: @theulykbek
 
 ---
 
