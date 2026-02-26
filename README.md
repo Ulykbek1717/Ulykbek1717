@@ -40,10 +40,6 @@ Focused on clean architecture, performance, and production-ready solutions.
 
 ---
 
-
-
----
-
 ## 📫 Contact
 
 - Email: dovutbekovulukbek@gmail.com
@@ -52,9 +48,9 @@ Focused on clean architecture, performance, and production-ready solutions.
 
 ---
 
-### 💡 About Me
+###  About Me
 
-- 🔥 Passionate about backend development  
-- ⚡ Interested in high-performance systems  
-- 📚 Continuously learning Go internals and Java ecosystem  
-- 🎯 Goal: Grow into a strong backend engineer
+-  Passionate about backend development  
+-  Interested in high-performance systems  
+-  Continuously learning Go internals and Java ecosystem  
+-  Goal: Grow into a strong backend engineer
