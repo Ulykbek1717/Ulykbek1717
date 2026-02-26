@@ -44,7 +44,7 @@ Focused on clean architecture, performance, and production-ready solutions.
 
 - Email: dovutbekovulukbek@gmail.com
 - LinkedIn: www.linkedin.com/in/ulykbekdovutbekov
-- Telegram: @theulykbek
+- Telegram: https://t.me/theulykbek
 
 ---
 
